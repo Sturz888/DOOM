@@ -38,7 +38,7 @@ then remove the zip ```rm shareware_doom_iwad.zip```
 you should have a file named DOOM.WAD in the Doom directory,
 to make sure use command ```ls```
 
-The should be ready to go but before we start we need to configure the mouse and keyboard (or gamepad)
+This should be ready to go but before we start we need to configure the mouse and keyboard (or gamepad)
 use command ```chocolate-doom-setup``` and you can go through the options you wish to change.
 you will have the option to save and run DOOM when you done
 
